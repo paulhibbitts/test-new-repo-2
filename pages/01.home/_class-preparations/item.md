@@ -5,6 +5,8 @@ published: true
 
 ## Jun 6th Class Preparations
 
+Colin was here.
+
 ### Required Reading
 [embedly url="http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/"]
 
