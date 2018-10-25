@@ -1,11 +1,12 @@
 ---
 title: Syllabus
 published: true
+hide_page_title: false
 show_sidebar: false
 hide_git_sync_repo_link: false
 ---
 
-## Course Description
+## Course Calendar Description
 In this course we will explore the art and science of designing usable, useful and enjoyable human-computer interfaces, with an emphasis on user-centered design techniques. The importance and necessity of effective interaction design techniques will be highlighted, and current design methodologies and principles across multiple platforms will be discussed. Students will gain valuable knowledge and experience by working in groups on a term-long design project.
 
 _Effectively working in a team and both verbal and written communication skills are essential to do well in this course._
